@@ -184,11 +184,19 @@ body {
     height:500px;
     border:1px solid black;
     margin-top:30px;
+    position:relative;
+
 }
 
 .p-box h1{
     position:absolute;
-    top:40px;
+    top:100px;
+    left:100px;
+}
 
+.p-box h2{
+    position:absolute;
+    top:40px;
+    right:100px;
 }
 
